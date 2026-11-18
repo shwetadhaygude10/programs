@@ -1,4 +1,4 @@
-my_list=['1','2','4','6','7','34','22','45']
+my_list=[1,2,4,6,7,34,22,45]
 
 def largest_number(my_list):
     largest=int(my_list[0])
